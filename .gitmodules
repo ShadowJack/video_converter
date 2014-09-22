@@ -1,0 +1,6 @@
+[submodule "app/Plugin/CakeAttachment"]
+	path = app/Plugin/CakeAttachment
+	url = git://github.com/dalpo/CakeAttachment.git
+[submodule "app/Plugin/Upload"]
+	path = app/Plugin/Upload
+	url = git://github.com/Grafikart/CakePHP-Upload.git
