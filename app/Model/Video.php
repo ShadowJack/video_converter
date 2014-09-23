@@ -1,5 +1,6 @@
 <?php 
 class Video extends AppModel {
+  
   public $actsAs = array(
     'Upload.Upload' => array(
       'fields' => array(
