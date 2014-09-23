@@ -1,0 +1,8 @@
+{
+    "config": {
+        "vendor-dir": "Vendor"
+    },
+    "require": {
+        "php-ffmpeg/php-ffmpeg": "~0.5"
+    }
+}
